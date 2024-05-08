@@ -1,0 +1,1 @@
+error with sql lite multi threading, mapping was needed
